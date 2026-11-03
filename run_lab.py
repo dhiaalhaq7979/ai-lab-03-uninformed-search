@@ -6,7 +6,7 @@ from search import bfs_dfs, depth_limited, uniform_cost
 
 if __name__ == "__main__":
     print("AI Lab 03 - Uninformed Search Strategies")
-    print("Student: Dhia Alhaq Saleh Al-Hindrish | BS Software Engineering")
+    print("Student: Dheya Alhag | BS Software Engineering")
     print(f"Python {sys.version.split()[0]} (standard library only)")
     print()
     bfs_dfs.run()

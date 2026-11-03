@@ -87,7 +87,7 @@ BFS stops at the path with fewer edges, but it is 4× more expensive. UCS expand
 
 ## Author
 
-**Dhia Alhaq Saleh Al-Hindrish** — BS Software Engineering, Superior University, Lahore
+**Dheya Alhag** — BS Software Engineering, Superior University, Lahore
 GitHub: [@dhiaalhaq7979](https://github.com/dhiaalhaq7979)
 
 Licensed under the [MIT License](LICENSE).
